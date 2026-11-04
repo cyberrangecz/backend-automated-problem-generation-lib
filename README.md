@@ -1,3 +1,6 @@
+> **Archived.** This repository is archived and no longer maintained here. The library has been moved into [backend-sandbox-platform](https://github.com/cyberrangecz/backend-sandbox-platform) as [`libs/automated-problem-generation-lib`](https://github.com/cyberrangecz/backend-sandbox-platform/tree/master/libs/automated-problem-generation-lib), where development continues. Please open issues and pull requests there. The code below is kept for historical reference only.
+
+
 # Welcome to the generator library's documentation!
 
 ---
